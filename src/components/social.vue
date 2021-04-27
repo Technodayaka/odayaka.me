@@ -2,16 +2,6 @@
 <div class="social">
         <div class="places">
         <div class="logos">
-          <div class="em">
-            <a href="mailto:oliver.keays@icloud.com">
-              <img
-                src="@/assets/email.png"
-                alt="Email"
-                width="64px"
-                height="64px"
-              />
-            </a>
-          </div>
           <div class="tw">
             <a href="https://https://twitter.com/OliverKeays">
               <img
