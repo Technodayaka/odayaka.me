@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="typing-container">
-      <h2 class="typewriter">I'm Oliver a.k.a. Odayaka</h2>
+      <h2 class="typewriter">I'm Odayaka Animations!</h2>
     </div>
     <img alt="Odayaka Animations logo" src="@/assets/oalogo.jpg" class="cloak-img">
     <div class="hi">
